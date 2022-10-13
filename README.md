@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muiz RAHEEM
-- 👀 I’m interested in AI/ML, Cloud Computing, Web Security and Privacy.
+- 👀 I’m interested in AI/ML, Cloud Computing, Cloud Solutions, Web Security and Privacy.
 - 🌱 I’m currently studying Green Networking and Cloud Computing
 <!-- - 
 💞️ I’m looking to collaborate on ... 
